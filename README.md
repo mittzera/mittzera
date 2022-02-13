@@ -1,5 +1,5 @@
 <h1 align="center">Hugo Rodrigues</h1>
-<h3 align="center">A dedicated FrontEnd Developer from Brazil.</h3>
+<h3 align="center">FrontEnd Developer from Brazil.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mittzera&label=Profile%20views&color=0e75b6&style=flat" alt="mittzera" /> </p>
 
