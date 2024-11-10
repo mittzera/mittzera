@@ -178,6 +178,15 @@ Paralelamente, atuo como Desenvolvedor Web Freelancer, criando soluções person
 <br/>
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ### Meus melhores projetos
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
