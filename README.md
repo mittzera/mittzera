@@ -147,8 +147,7 @@ Paralelamente, atuo como Desenvolvedor Web Freelancer, criando soluções person
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+    height="200"
     src="https://github-readme-stats.vercel.app/api?username=Mittzera&show_icons=true&theme=midnight-purple&include_all_commits=true&locale=pt-br" 
   />
 
