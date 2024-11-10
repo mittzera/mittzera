@@ -140,6 +140,15 @@ Paralelamente, atuo como Desenvolvedor Web Freelancer, criando soluções person
 
 <br/>
 <br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 ### Estatísticas
 
@@ -168,7 +177,6 @@ Paralelamente, atuo como Desenvolvedor Web Freelancer, criando soluções person
 <br/>
 <br/>
 <br/>
-
 <br/>
 
 ### Meus melhores projetos
