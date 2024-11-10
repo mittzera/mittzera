@@ -140,15 +140,6 @@ Paralelamente, atuo como Desenvolvedor Web Freelancer, criando soluções person
 
 <br/>
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 ### Estatísticas
 
