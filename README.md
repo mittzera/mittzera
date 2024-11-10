@@ -159,37 +159,3 @@ Paralelamente, atuo como Desenvolvedor Web Freelancer, criando soluções person
   />
 
 </p>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
-### Meus melhores projetos
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-    <a href="https://github.com/mittzera/EcoSense-front">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mittzera&repo=ecosense-front&theme=midnight-purple" alt="EcoSense Front-end" />
-    </a>
-    <a href="https://github.com/mittzera/Bank-app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mittzera&repo=bank-app&theme=midnight-purple" alt="Bank App" />
-    </a>
-    <a href="https://github.com/mittzera/stock-control-nextjs">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mittzera&repo=stock-control-nextjs&theme=midnight-purple" alt="Stock Control Next.js" />
-    </a>
-    <a href="https://github.com/mittzera/youtube-clone-react">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mittzera&repo=youtube-clone-react&theme=midnight-purple" alt="YouTube Clone React" />
-    </a>
-</div>
