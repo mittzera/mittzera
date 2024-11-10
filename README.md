@@ -142,7 +142,6 @@ Paralelamente, atuo como Desenvolvedor Web Freelancer, criando soluções person
 <br/>
 
 ### Estatísticas
-
 <p>
   <img 
     align="left" 
@@ -157,5 +156,4 @@ Paralelamente, atuo como Desenvolvedor Web Freelancer, criando soluções person
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mittzera&theme=midnight-purple&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
