@@ -4,7 +4,7 @@
 
 Me chamo Hugo Rodrigues, tenho 24 anos, sou de Belém-PA. Estudo **Engenharia da Computação** no Centro Universitário do Estado do Pará (CESUPA), no oitavo semestre. Trabalho na **Defensoria Pública do Estado do Pará**, onde contribuo para o desenvolvimento de sistemas internos e externos, buscando otimizar e inovar processos institucionais.
 
-Paralelamente, atuo como Desenvolvedor Web Freelancer, criando soluções personalizadas e focadas nas necessidades dos clientes. Para saber mais sobre meu trabalho, acesse meu <a href="https://hugorodrigues.vercel.app" target="_blank">Porfólio</a>.
+Paralelamente, atuo como Desenvolvedor Web Freelancer, criando soluções personalizadas e focadas nas necessidades dos clientes. Para saber mais sobre meu trabalho, acesse meu <a href="https://hugojrodrigues.vercel.app" target="_blank">Porfólio</a>.
 
 <p align="left">
     <a href="https://github.com/Mittzera?tab=repositories&sort=stargazers">
