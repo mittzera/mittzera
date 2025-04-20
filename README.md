@@ -5,7 +5,6 @@
 # 💫 About Me:
 My name is Hugo Rodrigues, I am 24 years old, and I am from Belém-PA. I study Computer Engineering at the Centro Universitário do Estado do Pará (CESUPA) and I am currently in my eighth semester. I work at Bredi Tecnologia Digital, where I develop and implement WebApps and SPAs using technologies such as Next.js, TypeScript, TailwindCSS, PrismicCMS, Laravel, and Git.
 
-
 ## 🌐 Socials: [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hugojrodrigues) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/Mittzera) 
 
 # 💻 Tech Stack:
